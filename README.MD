@@ -29,8 +29,7 @@ List and explain the tools and technologies you used in the project.
 
 - **HTML**: For structuring the content.
 - **CSS**: For styling and layout.
-- **JavaScript** (if applicable): For interactivity.
-- **Other Tools**: Any other tools or libraries used.
+- **JavaScript** (if applicable): For interactivity. 
 
 ## Setup and Installation
 
@@ -50,7 +49,7 @@ Provide detailed instructions on how to set up and run your project locally.
     
     ```
     
-3. Open the `index.html` file in a browser.
+3. Open the `https://training-gym-studio.vercel.app/` in a browser.
 
 ## Features
 
