@@ -406,10 +406,8 @@ body{
 
 /* shedule last section  */
 .schedue-last{
-    /* background-color: #dabf4b; */
     height: minmax(100%  500px);
     padding-bottom: 5rem;
-    /* padding-bottom: 50rem; */
     margin-bottom: 10rem;
 }
 
@@ -425,7 +423,7 @@ body{
    gap: 20px;
 }
 .grid-last div{
-   /* background-color: #6b3a3a; */
+  
    padding-inline: 15px;
 }
 .grid-last div .content{
@@ -472,7 +470,7 @@ body{
 .contact{
    height: 100vh;
    display: flex;
-   /* background-color: #ca6262; */
+
 }
 .contact iframe{
    width: 50%;
@@ -532,7 +530,7 @@ footer p{
  @media  screen and (max-width:1108px) {
    .About .container  .grid-blog{
        grid-template-columns: 1fr;
-       /* gap: 80px; */
+      
    }
    .About .container  .grid-blog  .blog-1{
       display: flex;
@@ -574,7 +572,6 @@ footer p{
    
    .grid-feature .fea-1 div{
       width: 100%;
-      /* align-items: flex-start; */
       justify-content: flex-start;
    }
    .grid-feature .fea-2 div{
@@ -624,7 +621,6 @@ footer p{
          flex-direction: column;
          flex-wrap: nowrap;
          gap: 20px;
-         /* padding-inline: 15px; */
           align-items: flex-start;
          position: relative;
           padding-block:5px ;
@@ -637,13 +633,11 @@ footer p{
           display: flex;
           flex-direction: column;
           align-items: center;
-          /* gab:40px; */
           margin-top: 4px;
           position: absolute;
-          /* z-index: 111; */
           top: 80px;
           bottom: 0;
-          /* transform: translateY(0%); */
+         
       }
         
       .nav[data-visible="false"]{
@@ -724,6 +718,7 @@ footer p{
       .contact{
          flex-direction: column;
          margin-bottom: 30px;
+         
       }
       .contact iframe{
          width: 100%;
